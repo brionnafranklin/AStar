@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Franklin\source\repos\AStar\raygame\Node.h(6,1): warning C4099: 'Node': type name first seen using 'struct' now seen using 'class'
+C:\Users\Franklin\source\repos\AStar\raygame\Node.h(5): message : see declaration of 'Node'
+  raygame.vcxproj -> C:\Users\Franklin\source\repos\AStar\x64\Debug\raygame.exe
