@@ -1,4 +1,53 @@
-﻿  main.cpp
-C:\Users\Franklin\source\repos\AStar\raygame\Node.h(6,1): warning C4099: 'Node': type name first seen using 'struct' now seen using 'class'
-C:\Users\Franklin\source\repos\AStar\raygame\Node.h(5): message : see declaration of 'Node'
-  raygame.vcxproj -> C:\Users\Franklin\source\repos\AStar\x64\Debug\raygame.exe
+﻿  Edge.cpp
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.h(6,1): warning C4099: 'Node': type name first seen using 'struct' now seen using 'class'
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.h(5): message : see declaration of 'Node'
+C:\Users\Franklin\source\repos\AStar2\raygame\Edge.cpp(15,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Edge.cpp(15,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Edge.cpp(15,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Edge.cpp(15,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Graph.cpp
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.h(6,1): warning C4099: 'Node': type name first seen using 'struct' now seen using 'class'
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.h(5): message : see declaration of 'Node'
+C:\Users\Franklin\source\repos\AStar2\raygame\Graph.cpp(7,37): warning C4244: 'argument': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Graph.cpp(56,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Graph.cpp(91,57): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Graph.cpp(130,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Graph.cpp(138,37): warning C4244: 'argument': conversion from 'float' to 'const __int64', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Graph.cpp(180,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Graph.cpp(217,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.h(6,1): warning C4099: 'Node': type name first seen using 'struct' now seen using 'class'
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.h(5): message : see declaration of 'Node'
+  Node.cpp
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.h(6,1): warning C4099: 'Node': type name first seen using 'struct' now seen using 'class'
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.h(5): message : see declaration of 'Node'
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.cpp(9,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.cpp(9,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.cpp(13,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.cpp(13,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.cpp(18,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.cpp(18,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.cpp(22,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Franklin\source\repos\AStar2\raygame\Node.cpp(22,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(context.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(init.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(input.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(input.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(monitor.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(vulkan.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(vulkan.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(window.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_init.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_joystick.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_monitor.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_time.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_time.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_thread.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_window.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(wgl_context.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(egl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(egl_context.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(osmesa_context.obj)' or at 'C:\Users\Franklin\source\repos\AStar2\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+  raygame.vcxproj -> C:\Users\Franklin\source\repos\AStar2\x64\Debug\raygame.exe
